@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fairy tales'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: The Frog Prince -- Princess Belle-Etoile -- Aladdin and the wonderful
   lamp.
 title: The Frog Prince and Other Stories
